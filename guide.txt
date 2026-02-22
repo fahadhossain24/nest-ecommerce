@@ -1,0 +1,24 @@
+For prisma ---> prisma@latest @prisma/client@latest @prisma/config @prisma/adapter-pg pg ---> npx prisma init
+
+
+
+Checklist...
+- NestJs
+- Prisma (ORM)
+- Neon (Fully managed serverless database platform with postgres engine)
+- dbdiagram (database diagram with schema)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
